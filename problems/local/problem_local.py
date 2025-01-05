@@ -4,7 +4,7 @@ import os
 import pickle
 from problems.local.state_local import StateLOCAL
 from utils.beam_search import beam_search
-from largetsp import readDataFile, load_instance
+from grid import readDataFile, load_instance
 
 class LOCAL(object):
 
