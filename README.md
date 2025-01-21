@@ -78,7 +78,7 @@ If you find this work helpful, please consider cite our paper:
 
 ```
 @inproceedings{zhou2025dualopt,
-    author = {Shipei Zhou, Yuandong Ding, Chi Zhang, Zhiguang Cao, Yan Jin},
+    author = {Zhou, Shipei and Ding, Yuandong and Zhang, Chi and Cao, Zhiguang and Jin, Yan},
     title = {DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-scale Traveling
  Salesman Problem},
     booktitle = {AAAI 2025},
