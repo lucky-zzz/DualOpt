@@ -84,6 +84,7 @@ If you find this work helpful, please consider cite our paper:
     booktitle = {AAAI 2025},
     year = {2025},
     month = {February},
+    url = {https://arxiv.org/abs/2501.08565},
 }
 ```
 
